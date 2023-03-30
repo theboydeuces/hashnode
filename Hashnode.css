@@ -1,6 +1,6 @@
 header{
-    width: fit-content
-    height: fit-content
+    width: fit-content;
+    height: fit-content;
 }
 .headerdiv{
     width: 1990px;
@@ -16,7 +16,7 @@ header{
 }
 .hehashds{
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-weight: 650;
+    font-weight: 660;
     font-size: 30px;
     margin-left: 30px;
     margin-top: -38px;
